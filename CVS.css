@@ -1,0 +1,77 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh; /* Ajusta la altura al 100% de la ventana para centrar verticalmente */
+  }
+p1 
+{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    color:blueviolet
+}
+marquee 
+{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+p2 
+{
+ font-size: 30px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color:blue;
+ text-align: center;
+}
+body 
+{
+    background-color: rgb(0, 0, 0); 
+}
+audio
+{
+    
+    border: rgb(26, 122, 206);
+    color: aqua;
+}
+
+.novios
+{
+    color: rgb(5, 59, 177);
+    font-size: 50px;
+
+        font-family: 'love story';
+        text-align: center;
+    }
+
+.hermosa
+{
+    color: rgb(100, 5, 177);
+    font-size: 50px;
+
+        font-family: 'Times New Romance';
+        text-align: center;
+    }
+
+
+
+#salida3
+{
+    color: rgb(10, 209, 199);
+     font-size: 30px;
+      font-family: 'Asus Rog Regular';
+       text-align: center;  
+}
+#salida4 {
+       color: seagreen;
+         font-size: 30px;
+            font-family: 'Asus Rog Regular';
+            text-align: center;
+}
+
+#salida5 {
+    color: rgb(10, 209, 199);
+     font-size: 30px;
+      font-family: 'Asus Rog Regular';
+       text-align: center;  
+}
+
